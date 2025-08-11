@@ -53,6 +53,8 @@
 - 🤖 **Artificial Intelligence** - Machine learning applications and automation
 - ☁️ **Cloud Computing** - AWS, containerization, and scalable architectures
 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachogb27&layout=compact&theme=tokyonight&hide_border=true)
+
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-garcía-benito-16119232b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nachogb27)
