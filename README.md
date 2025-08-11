@@ -6,7 +6,7 @@
 🌱 Always **learning** and experimenting with new tools and concepts
 
 ## 🚀 Currently exploring
-- 📚 **Full Stack Open 2024** - Learning modern web development
+- 📚 **Full Stack Open** - Learning modern web development
 - 🔐 **Cybersecurity fundamentals** - Network security and ethical hacking
 - ⚛️ Building projects with **React** and **Node.js**
 - 🤖 **AI/ML concepts** and their practical applications
