@@ -46,9 +46,8 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nachogb27&theme=tokyonight&hide_border=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Computer+Engineering+Student;Learning+Full+Stack+Development;Interested+in+Cybersecurity;Always+exploring+new+technologies)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nachogb27&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 ## 🎯 What I'm building
