@@ -46,10 +46,11 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Computer+Engineering+Student;Learning+Full+Stack+Development;Interested+in+Cybersecurity;Always+exploring+new+technologies)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nachogb27&show_icons=true&theme=dark&count_private=true&hide_border=true&hide=contribs,prs,issues&custom_title=My%20GitHub%20Journey)
 
 
 </div>
+
 ## 🎯 What I'm building
 - 🌐 **Web applications** with modern JavaScript frameworks
 - 🔧 **System scripts** for automation and efficiency
