@@ -57,7 +57,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachogb27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=nachogb27&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nachogb27&theme=tokyo-night&hide_border=true)
 
 
 ## 📫 Let's Connect!
