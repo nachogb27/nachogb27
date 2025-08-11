@@ -2,7 +2,6 @@
 
 🎓 **Computer Engineering Student** at Universidad de Salamanca, Spain  
 💻 **Full Stack Developer** passionate about modern web technologies  
-🌱 Currently mastering the **MERN Stack** and exploring **TypeScript**
 
 ## 🚀 What I'm working on
 - 📚 **Full Stack Open 2024** - Advanced web development with React ecosystem
