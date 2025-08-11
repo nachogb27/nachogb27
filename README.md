@@ -51,7 +51,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachogb27&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nachogb27&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -66,10 +65,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nachogb27)
 
 ---
-<div align="center">
-  
-💡 *"Code is poetry written in logic"* 💡
-
-![Profile Views](https://komarev.com/ghpvc/?username=nachogb27&color=blueviolet&style=for-the-badge)
-
-</div>
