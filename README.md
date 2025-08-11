@@ -45,12 +45,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nachogb27&theme=tokyo-night&hide_border=true)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachogb27&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nachogb27&theme=tokyonight&hide_border=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nachogb27&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
 ## 🎯 What I'm building
 - 🌐 **Web applications** with modern JavaScript frameworks
 - 🔧 **System scripts** for automation and efficiency
