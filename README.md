@@ -45,10 +45,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nachogb27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachogb27&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nachogb27&theme=tokyo-night&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nachogb27&theme=tokyo-night&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachogb27&theme=tokyonight)
+
 </div>
 
 ## 🎯 What I'm building
