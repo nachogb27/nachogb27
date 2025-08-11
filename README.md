@@ -27,6 +27,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -46,11 +47,8 @@
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nachogb27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachogb27&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nachogb27&theme=tokyonight&hide_border=true)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nachogb27&theme=tokyo-night&hide_border=true)
 </div>
 
 ## 🎯 What I'm building
@@ -63,18 +61,9 @@
 - 🔐 **Cybersecurity** - Ethical hacking, penetration testing, network security
 - 🤖 **Artificial Intelligence** - Machine learning applications and automation
 - ☁️ **Cloud Computing** - AWS, containerization, and scalable architectures
-- 📱 **Mobile Development** - Cross-platform applications
-- 🎮 **Game Development** - Creative coding and interactive experiences
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-garcía-benito-16119232b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nachogb27)
 
 ---
-<div align="center">
-  
-💡 *"Technology is best when it brings people together"* 💡
-
-![Profile Views](https://komarev.com/ghpvc/?username=nachogb27&color=blueviolet&style=for-the-badge)
-
-</div>
