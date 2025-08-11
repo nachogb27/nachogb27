@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ignacio García Benito
+# Hi there! 👋 I'm Nacho
 
 🎓 **Computer Engineering Student** at Universidad de Salamanca, Spain  
 💻 **Exploring** the world of software development and technology  
