@@ -46,7 +46,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nachogb27&show_icons=true&theme=dark&count_private=true&hide_border=true&hide=contribs,prs,issues&custom_title=My%20GitHub%20Journey)
+![Learning Progress](https://github-readme-streak-stats.herokuapp.com/?user=nachogb27&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
 </div>
