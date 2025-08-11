@@ -42,15 +42,6 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Learning Progress](https://github-readme-streak-stats.herokuapp.com/?user=nachogb27&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-
-</div>
-
 ## 🎯 What I'm building
 - 🌐 **Web applications** with modern JavaScript frameworks
 - 🔧 **System scripts** for automation and efficiency
