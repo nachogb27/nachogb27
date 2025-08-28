@@ -12,11 +12,11 @@
 - ☁️ **Cloud Computing** - AWS services and containerization
 
 ## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, Java, C#, C, Bash, TypeScript
-**Web:** React, Node.js, Express, Vue.js, HTML/CSS  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, VS Code, Linux, Docker  
-**Interests:** Cybersecurity, Cloud, Machine Learning
+- **Languages:** Python, JavaScript, Java, C#, C, Bash, TypeScript
+- **Web:** React, Node.js, Express, Vue.js, HTML/CSS  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, VS Code, Linux, Docker  
+- **Interests:** Cybersecurity, Cloud, Machine Learning
 
 ## 🎯 What I'm building
 - 🌐 Modern web applications
