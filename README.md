@@ -9,12 +9,13 @@
 - 🔐 **Cybersecurity** fundamentals and ethical hacking
 - ⚛️ **React & Node.js** projects
 - 🤖 **AI/ML** concepts and applications
+- ☁️ **Cloud Computing** - AWS services and containerization
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, Java, C++, Bash, TypeScript 
+**Languages:** Python, JavaScript, Java, C#, C, Bash, TypeScript 
 **Web:** React, Node.js, Express, Vue.js, HTML/CSS  
-**Databases:** MongoDB, PostgreSQL  
+**Databases:** MongoDB, MySQL  
 **Tools:** Git, VS Code, Linux, Docker  
 **Interests:** Cybersecurity, Cloud, Machine Learning
 
@@ -23,9 +24,6 @@
 - 🔧 Automation scripts  
 - 🛡️ Security tools and experiments
 - 📚 Learning projects across different domains
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachogb27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-garcía-benito-16119232b)
