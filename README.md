@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, Java, C#, C, Bash, TypeScript 
+**Languages:** Python, JavaScript, Java, C#, C, Bash, TypeScript
 **Web:** React, Node.js, Express, Vue.js, HTML/CSS  
 **Databases:** MongoDB, MySQL  
 **Tools:** Git, VS Code, Linux, Docker  
