@@ -12,5 +12,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  [![Nacho's GitHub stats](https://github-stats-extended.vercel.app/api?username=nachogb27)](https://github.com/stats-organization/github-stats-extended)
 </p>
